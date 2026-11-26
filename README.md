@@ -83,7 +83,7 @@ Before this I worked inside an EMS company on the **SMT line and the warehouse**
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HarshitRK-02&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HarshitRK-02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshitRK-02&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages"/>
 </p>
 
